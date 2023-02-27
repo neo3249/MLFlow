@@ -1,0 +1,15 @@
+artifact_uri: mlruns/5/3e5a40d45aa44fed8e6634f2b26d070d/artifacts
+end_time: 1668505767246
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: 3e5a40d45aa44fed8e6634f2b26d070d
+run_name: MODELLING
+run_uuid: 3e5a40d45aa44fed8e6634f2b26d070d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668505757599
+status: 3
+tags: []
+user_id: ayush.saxena

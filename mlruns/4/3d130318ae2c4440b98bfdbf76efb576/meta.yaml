@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/3d130318ae2c4440b98bfdbf76efb576/artifacts
+end_time: 1668421433434
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 3d130318ae2c4440b98bfdbf76efb576
+run_name: painted-bat-565
+run_uuid: 3d130318ae2c4440b98bfdbf76efb576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668421388576
+status: 3
+tags: []
+user_id: ayush.saxena

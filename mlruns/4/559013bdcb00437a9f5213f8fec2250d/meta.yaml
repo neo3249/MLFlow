@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/559013bdcb00437a9f5213f8fec2250d/artifacts
+end_time: 1668422958462
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 559013bdcb00437a9f5213f8fec2250d
+run_name: clumsy-ox-428
+run_uuid: 559013bdcb00437a9f5213f8fec2250d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668422913885
+status: 3
+tags: []
+user_id: ayush.saxena

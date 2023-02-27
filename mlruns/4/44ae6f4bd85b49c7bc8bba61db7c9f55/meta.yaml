@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/44ae6f4bd85b49c7bc8bba61db7c9f55/artifacts
+end_time: 1668423321539
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 44ae6f4bd85b49c7bc8bba61db7c9f55
+run_name: upbeat-crow-867
+run_uuid: 44ae6f4bd85b49c7bc8bba61db7c9f55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668423280072
+status: 3
+tags: []
+user_id: ayush.saxena

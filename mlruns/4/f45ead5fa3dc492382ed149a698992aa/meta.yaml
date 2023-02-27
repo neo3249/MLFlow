@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/f45ead5fa3dc492382ed149a698992aa/artifacts
+end_time: 1668421096428
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: f45ead5fa3dc492382ed149a698992aa
+run_name: adaptable-perch-526
+run_uuid: f45ead5fa3dc492382ed149a698992aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668421073966
+status: 3
+tags: []
+user_id: ayush.saxena

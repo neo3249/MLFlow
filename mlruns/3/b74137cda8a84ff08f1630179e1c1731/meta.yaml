@@ -1,0 +1,15 @@
+artifact_uri: mlruns/3/b74137cda8a84ff08f1630179e1c1731/artifacts
+end_time: 1668419966141
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: b74137cda8a84ff08f1630179e1c1731
+run_name: likeable-owl-501
+run_uuid: b74137cda8a84ff08f1630179e1c1731
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668419960458
+status: 3
+tags: []
+user_id: ayush.saxena

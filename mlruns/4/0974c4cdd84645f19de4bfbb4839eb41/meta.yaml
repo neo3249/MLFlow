@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/0974c4cdd84645f19de4bfbb4839eb41/artifacts
+end_time: 1668422075772
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 0974c4cdd84645f19de4bfbb4839eb41
+run_name: marvelous-seal-937
+run_uuid: 0974c4cdd84645f19de4bfbb4839eb41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668421982291
+status: 3
+tags: []
+user_id: ayush.saxena

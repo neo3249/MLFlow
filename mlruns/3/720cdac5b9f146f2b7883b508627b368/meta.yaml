@@ -1,0 +1,15 @@
+artifact_uri: mlruns/3/720cdac5b9f146f2b7883b508627b368/artifacts
+end_time: 1668419978562
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 720cdac5b9f146f2b7883b508627b368
+run_name: invincible-mare-808
+run_uuid: 720cdac5b9f146f2b7883b508627b368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668419972463
+status: 3
+tags: []
+user_id: ayush.saxena

@@ -1,0 +1,16 @@
+artifact_uri: mlruns/4/06664f8c22e4483483646e4f75298453/artifacts
+deleted_time: 1668420992957
+end_time: 1668420952140
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: deleted
+run_id: 06664f8c22e4483483646e4f75298453
+run_name: welcoming-lamb-516
+run_uuid: 06664f8c22e4483483646e4f75298453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668420934099
+status: 4
+tags: []
+user_id: ayush.saxena

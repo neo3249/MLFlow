@@ -1,0 +1,15 @@
+artifact_uri: mlruns/5/f1f3dd607c814c479a137295bb2bd568/artifacts
+end_time: 1668505767292
+entry_point_name: ''
+experiment_id: '5'
+lifecycle_stage: active
+run_id: f1f3dd607c814c479a137295bb2bd568
+run_name: Linear_Regression_PR
+run_uuid: f1f3dd607c814c479a137295bb2bd568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668505756719
+status: 3
+tags: []
+user_id: ayush.saxena

@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/2fc70dcb922848c7a17a2e8724ad18f2/artifacts
+end_time: 1668417317962
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2fc70dcb922848c7a17a2e8724ad18f2
+run_name: unequaled-midge-889
+run_uuid: 2fc70dcb922848c7a17a2e8724ad18f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668417309547
+status: 3
+tags: []
+user_id: ayush.saxena

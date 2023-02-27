@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/bdda0b4eece048849263f665425bcb03/artifacts
+end_time: 1668423045245
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: bdda0b4eece048849263f665425bcb03
+run_name: invincible-kit-922
+run_uuid: bdda0b4eece048849263f665425bcb03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668423001983
+status: 3
+tags: []
+user_id: ayush.saxena

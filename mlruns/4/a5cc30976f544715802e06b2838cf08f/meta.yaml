@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/a5cc30976f544715802e06b2838cf08f/artifacts
+end_time: 1668421479378
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: a5cc30976f544715802e06b2838cf08f
+run_name: bemused-whale-493
+run_uuid: a5cc30976f544715802e06b2838cf08f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668421433481
+status: 3
+tags: []
+user_id: ayush.saxena

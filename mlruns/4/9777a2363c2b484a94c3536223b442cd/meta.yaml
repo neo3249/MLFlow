@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/9777a2363c2b484a94c3536223b442cd/artifacts
+end_time: 1668423188094
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 9777a2363c2b484a94c3536223b442cd
+run_name: thoughtful-snipe-566
+run_uuid: 9777a2363c2b484a94c3536223b442cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668423142930
+status: 3
+tags: []
+user_id: ayush.saxena

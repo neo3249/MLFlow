@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/000d845cce534eba84808f5ae63f2fec/artifacts
+end_time: 1668422363751
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 000d845cce534eba84808f5ae63f2fec
+run_name: mercurial-panda-705
+run_uuid: 000d845cce534eba84808f5ae63f2fec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668422322044
+status: 3
+tags: []
+user_id: ayush.saxena

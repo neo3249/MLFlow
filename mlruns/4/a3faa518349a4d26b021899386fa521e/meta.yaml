@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/a3faa518349a4d26b021899386fa521e/artifacts
+end_time: 1668423280025
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: a3faa518349a4d26b021899386fa521e
+run_name: melodic-hare-57
+run_uuid: a3faa518349a4d26b021899386fa521e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668423234637
+status: 3
+tags: []
+user_id: ayush.saxena

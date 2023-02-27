@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/16637c614bdc431ba20cce2a813b075f/artifacts
+end_time: 1668422159120
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 16637c614bdc431ba20cce2a813b075f
+run_name: upset-asp-600
+run_uuid: 16637c614bdc431ba20cce2a813b075f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668422075848
+status: 3
+tags: []
+user_id: ayush.saxena

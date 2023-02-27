@@ -1,0 +1,15 @@
+artifact_uri: mlruns/3/7a4d5e110d1c485d97ad4e8020ceeea3/artifacts
+end_time: 1668419960380
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 7a4d5e110d1c485d97ad4e8020ceeea3
+run_name: redolent-shrike-793
+run_uuid: 7a4d5e110d1c485d97ad4e8020ceeea3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668419952810
+status: 3
+tags: []
+user_id: ayush.saxena

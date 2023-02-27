@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/0b7844fc3ced470695769f5feb3641c7/artifacts
+end_time: 1668421526880
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 0b7844fc3ced470695769f5feb3641c7
+run_name: funny-trout-434
+run_uuid: 0b7844fc3ced470695769f5feb3641c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668421479425
+status: 3
+tags: []
+user_id: ayush.saxena
