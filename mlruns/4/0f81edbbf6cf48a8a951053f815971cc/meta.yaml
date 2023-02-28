@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/0f81edbbf6cf48a8a951053f815971cc/artifacts
+end_time: 1668421119577
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 0f81edbbf6cf48a8a951053f815971cc
+run_name: classy-vole-140
+run_uuid: 0f81edbbf6cf48a8a951053f815971cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668421096478
+status: 3
+tags: []
+user_id: ayush.saxena

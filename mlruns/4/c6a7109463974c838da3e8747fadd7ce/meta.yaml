@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/c6a7109463974c838da3e8747fadd7ce/artifacts
+end_time: 1668422786091
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: c6a7109463974c838da3e8747fadd7ce
+run_name: puzzled-kit-348
+run_uuid: c6a7109463974c838da3e8747fadd7ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668422742636
+status: 3
+tags: []
+user_id: ayush.saxena

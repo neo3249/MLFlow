@@ -1,0 +1,15 @@
+artifact_uri: mlruns/3/80ea41def71743f187de89480320f585/artifacts
+end_time: 1668419972428
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 80ea41def71743f187de89480320f585
+run_name: rebellious-hen-835
+run_uuid: 80ea41def71743f187de89480320f585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668419966189
+status: 3
+tags: []
+user_id: ayush.saxena

@@ -1,0 +1,4 @@
+*.csv
+*Zone.Identifier
+!.ipynb_checkpoints/
+

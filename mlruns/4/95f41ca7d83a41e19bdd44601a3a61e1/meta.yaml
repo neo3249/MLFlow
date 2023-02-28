@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/95f41ca7d83a41e19bdd44601a3a61e1/artifacts
+end_time: 1668422698370
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 95f41ca7d83a41e19bdd44601a3a61e1
+run_name: worried-squirrel-107
+run_uuid: 95f41ca7d83a41e19bdd44601a3a61e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668422655861
+status: 3
+tags: []
+user_id: ayush.saxena

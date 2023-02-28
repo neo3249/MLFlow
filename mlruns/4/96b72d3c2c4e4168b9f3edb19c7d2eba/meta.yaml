@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/96b72d3c2c4e4168b9f3edb19c7d2eba/artifacts
+end_time: 1668422828073
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 96b72d3c2c4e4168b9f3edb19c7d2eba
+run_name: gifted-skink-397
+run_uuid: 96b72d3c2c4e4168b9f3edb19c7d2eba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668422786138
+status: 3
+tags: []
+user_id: ayush.saxena

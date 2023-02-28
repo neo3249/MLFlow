@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/8caf27b1cefb474fbafb7b6f9b2e21c0/artifacts
+end_time: 1668423001951
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 8caf27b1cefb474fbafb7b6f9b2e21c0
+run_name: defiant-kite-298
+run_uuid: 8caf27b1cefb474fbafb7b6f9b2e21c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668422958490
+status: 3
+tags: []
+user_id: ayush.saxena

@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/433a2dfc4ed74c6b8d7a4b906ac8fdf1/artifacts
+end_time: 1668422570044
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 433a2dfc4ed74c6b8d7a4b906ac8fdf1
+run_name: classy-fox-50
+run_uuid: 433a2dfc4ed74c6b8d7a4b906ac8fdf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668422528568
+status: 3
+tags: []
+user_id: ayush.saxena

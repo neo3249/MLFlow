@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/2903685b0c124a018fc6a511da6abe2b/artifacts
+end_time: 1668422321997
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 2903685b0c124a018fc6a511da6abe2b
+run_name: amusing-cub-142
+run_uuid: 2903685b0c124a018fc6a511da6abe2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668422280928
+status: 3
+tags: []
+user_id: ayush.saxena

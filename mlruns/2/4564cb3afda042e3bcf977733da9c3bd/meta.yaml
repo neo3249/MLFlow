@@ -1,0 +1,15 @@
+artifact_uri: mlruns/2/4564cb3afda042e3bcf977733da9c3bd/artifacts
+end_time: 1668417695045
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4564cb3afda042e3bcf977733da9c3bd
+run_name: youthful-moose-992
+run_uuid: 4564cb3afda042e3bcf977733da9c3bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668417694567
+status: 3
+tags: []
+user_id: ayush.saxena

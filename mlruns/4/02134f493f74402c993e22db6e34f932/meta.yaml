@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/02134f493f74402c993e22db6e34f932/artifacts
+end_time: 1668423089812
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 02134f493f74402c993e22db6e34f932
+run_name: treasured-auk-31
+run_uuid: 02134f493f74402c993e22db6e34f932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668423045287
+status: 3
+tags: []
+user_id: ayush.saxena

@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/8ced105380e54c36832f40a7dca2a761/artifacts
+end_time: 1668421388528
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 8ced105380e54c36832f40a7dca2a761
+run_name: polite-bug-658
+run_uuid: 8ced105380e54c36832f40a7dca2a761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668421343202
+status: 3
+tags: []
+user_id: ayush.saxena

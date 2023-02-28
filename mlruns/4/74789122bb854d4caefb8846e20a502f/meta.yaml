@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/74789122bb854d4caefb8846e20a502f/artifacts
+end_time: 1668421052884
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 74789122bb854d4caefb8846e20a502f
+run_name: salty-horse-531
+run_uuid: 74789122bb854d4caefb8846e20a502f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668421030973
+status: 3
+tags: []
+user_id: ayush.saxena

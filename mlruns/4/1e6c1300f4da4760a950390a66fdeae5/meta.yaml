@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/1e6c1300f4da4760a950390a66fdeae5/artifacts
+end_time: 1668421796546
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 1e6c1300f4da4760a950390a66fdeae5
+run_name: rebellious-quail-648
+run_uuid: 1e6c1300f4da4760a950390a66fdeae5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668421705493
+status: 3
+tags: []
+user_id: ayush.saxena

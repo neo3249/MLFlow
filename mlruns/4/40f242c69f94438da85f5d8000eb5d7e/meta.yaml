@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/40f242c69f94438da85f5d8000eb5d7e/artifacts
+end_time: 1668422199856
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 40f242c69f94438da85f5d8000eb5d7e
+run_name: fun-wasp-371
+run_uuid: 40f242c69f94438da85f5d8000eb5d7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668422159151
+status: 3
+tags: []
+user_id: ayush.saxena

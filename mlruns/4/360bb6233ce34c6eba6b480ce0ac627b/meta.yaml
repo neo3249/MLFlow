@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/360bb6233ce34c6eba6b480ce0ac627b/artifacts
+end_time: 1668421612930
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 360bb6233ce34c6eba6b480ce0ac627b
+run_name: righteous-mare-532
+run_uuid: 360bb6233ce34c6eba6b480ce0ac627b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668421526928
+status: 3
+tags: []
+user_id: ayush.saxena

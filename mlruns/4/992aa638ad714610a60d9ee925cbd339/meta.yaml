@@ -1,0 +1,15 @@
+artifact_uri: mlruns/4/992aa638ad714610a60d9ee925cbd339/artifacts
+end_time: 1668421982212
+entry_point_name: ''
+experiment_id: '4'
+lifecycle_stage: active
+run_id: 992aa638ad714610a60d9ee925cbd339
+run_name: adorable-steed-85
+run_uuid: 992aa638ad714610a60d9ee925cbd339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668421888915
+status: 3
+tags: []
+user_id: ayush.saxena
